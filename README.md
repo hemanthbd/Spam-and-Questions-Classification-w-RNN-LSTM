@@ -1,4 +1,4 @@
-# RNN_LSTM
+# Spam and Question Classification using RNN(LSTM)
 
 Implemented RNN using LSTM framework on Two datasets -> (a) Questions; (Learning question classifiers dataset) [1] 
 (b) Spam; (Enron Spam Dataset) [2]
